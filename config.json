@@ -18,6 +18,16 @@
 			"permissions": ["http://*/*", "https://*/*"]
 		},
 		"tools": true,
-		"reload": true
+		"reload": true,
+		"launchimage": {
+			"iphone": "iphone.png",
+			"iphone-retina": "iphone-retina.png",
+			"ipad": "ipad.png",
+			"ipad-landscape": "ipad-landscape.png",
+			"ipad-retina": "ipad-retina.png",
+			"ipad-landscape-retina": "ipad-landscape-retina.png",
+			"android": "android.png",
+			"android-landscape": "android-landscape.png"
+		}
 	}
 }
